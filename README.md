@@ -222,7 +222,7 @@ assets/                 – photos and PDFs
 ## DNS info
 
 ## Domain name management (info)
-As a demo, [etcb.co.uk is registered (at names.co.uk), for a year until March 2027. names.co.uk DNS settings forward to Cloudflare.](https://www.whois.com/whois/thornburyswingband.co.uk) Cloudflare [has a CNAME for thornburyswingband.co.uk which is owen-kellie-smith.github.io](https://mxtoolbox.com/SuperTool.aspx?action=mx%3athornburyswingband.co.uk)&run=toolpage).  Github fowards to etcb-website/docs via this repo > Settings > Pages (Custom Domain) which created [a CNAME in docs](docs/CNAME).
+[thornburyswingband.co.uk is registered (at names.co.uk), (for free) for a year until March 2027. names.co.uk DNS settings forward to Cloudflare.](https://www.whois.com/whois/thornburyswingband.co.uk) Cloudflare [has a CNAME for thornburyswingband.co.uk which is owen-kellie-smith.github.io](https://mxtoolbox.com/SuperTool.aspx?action=mx%3athornburyswingband.co.uk)&run=toolpage).  Github fowards to etcb-website/docs via this repo > Settings > Pages (Custom Domain) which created [a CNAME in docs](docs/CNAME).
 
 ```mermaid
 flowchart TB
