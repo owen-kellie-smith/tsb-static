@@ -10,26 +10,16 @@ https://thornburyswingband.co.uk/  [How?](#dns-info)
 
 ---
 
-## ✏️ Stuff that goes out of date quickly (so worth editing first)
+## ✏️ Stuff that goes out of date (worth editing first)
 
-1. [Upcoming events](#-upcoming-events)
-2. [Past events](#-past-events)
-3. [Band members](#-band-members) and [Vacancies](#-vacancies)
-
-## Stuff that goes out of date more slowly (but eventually ...)
-
-4. [Repertoire](#-current-repertoire)
-5. [Sound Engineer fees](#-sound-engineer-fees)
-6. [Practice venue](#-practices)
-7. [Music Director](#-music-director)
-8. [Manager](#-manager)
-9. [Email addresses and phone numbers](#-email-addresses-and-phone-numbers)
+1. [Upcoming events](#upcoming-events)
+2. [Past events](#past-events)
+3. [Band members](#band-members) and [Vacancies](#vacancies)
+4. [Repertoire](#current-repertoire)
+5. [Sound Engineer fees](#sound-engineer-fees)
+6. [Practice venue](#practice-venue)
    
 You can edit any page directly on GitHub — no software needed.
-
-Once you edit the page you may make the line numbers in this README out of date i.e. wrong - but they
-aren't part of the public site, so just update them if you want to help future you / some other editor.
-
 
 **How to edit a file:**
 1. Click the link below for the section you want to change
@@ -41,30 +31,29 @@ The site updates automatically within a minute or two.
 
 ---
 
-### 📅 Upcoming events
+### Upcoming events
 
 **File:** [`events-future`](../../edit/main/events-future.md)
 
 ---
 
-### 🎹 Past events
+### Past events
 
 **File:** [`events-past`](../../edit/main/events-past.md)
 
 ---
 
-### 🎷 Band members
+### Band members
 
 **File:** [`the-band.md`](../../edit/main/the-band.md)
 
-### 🈳 Vacancies
+### Vacancies
 
 **File:** [`the-band.md`](../../edit/main/the-band.md)
 
 ---
 
-
-### 🎤 Current repertoire
+### Current repertoire
 
 **File:** [`assets/thornbury-swing-band-current-repertoire.pdf`](../../blob/main/assets/thornbury-swing-band-current-repertoire.pdf)
 
@@ -72,13 +61,13 @@ The site updates automatically within a minute or two.
 
 ---
 
-
-### 💷 Sound engineer fees
+### Sound engineer fees
 
 **File:** [`your-event.md`](../../edit/main/your-event.md)
+
 ---
 
-### 🎵 Practices
+### Practice venue
 
 **File:** [`the-band.md`](../../edit/main/the-band.md)
 
