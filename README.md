@@ -1,6 +1,6 @@
 # Thornbury Swing Band – Static Site
 
-Plain static HTML site served via GitHub Pages.
+Plain static HTML site served via GitHub Pages using Jekyll.
 
 https://owen-kellie-smith.github.io/tsb-static/
 
