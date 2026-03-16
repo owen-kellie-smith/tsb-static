@@ -28,7 +28,7 @@ aren't part of the public site, so just update them if you want to help future y
 1. Click the link below for the section you want to change
 2. Click the **pencil icon** (✏️) in the top-right of the file view
 3. Make your changes
-4. Scroll to the bottom, write a short note about what you changed, and click **Commit changes**
+4. Click **Commit changes**
 
 The site updates automatically within a minute or two.
 
