@@ -1,0 +1,131 @@
+/* Thornbury Swing Band – plain static styles (to be enhanced later) */
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #222;
+  background: #fff;
+}
+
+a { color: #8b0000; }
+a:hover { color: #c00; }
+
+/* ── Layout ── */
+.site-header {
+  background: #111;
+  color: #fff;
+  padding: 1.2rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.site-header .logo a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.4rem;
+  font-weight: bold;
+  letter-spacing: 0.03em;
+}
+.site-header .logo span {
+  display: block;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: #ccc;
+  font-weight: normal;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0; padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 1.2rem;
+}
+nav a {
+  color: #ddd;
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-family: Arial, sans-serif;
+}
+nav a:hover, nav a.active { color: #fff; text-decoration: underline; }
+
+main {
+  max-width: 860px;
+  margin: 2.5rem auto;
+  padding: 0 1.5rem;
+}
+
+h1 { font-size: 2rem; margin-top: 0; }
+h2 { font-size: 1.5rem; margin-top: 2rem; }
+h3 { font-size: 1.2rem; }
+
+/* ── Quotes / testimonials ── */
+blockquote {
+  border-left: 4px solid #c00;
+  margin: 1.5rem 0;
+  padding: 0.8rem 1.2rem;
+  background: #fdf5f5;
+  font-style: italic;
+  color: #444;
+}
+blockquote cite {
+  display: block;
+  margin-top: 0.5rem;
+  font-style: normal;
+  font-size: 0.9rem;
+  color: #777;
+}
+
+/* ── Images ── */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem 0;
+  border-radius: 3px;
+}
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.8rem;
+  margin: 1.5rem 0;
+}
+.gallery img { margin: 0; width: 100%; object-fit: cover; aspect-ratio: 4/3; }
+
+/* ── Info list ── */
+.info-list { padding-left: 1.3rem; }
+.info-list li { margin-bottom: 0.6rem; }
+
+/* ── Events ── */
+.event {
+  border-bottom: 1px solid #eee;
+  padding: 0.8rem 0;
+}
+.event h3 { margin: 0 0 0.3rem; }
+.event .date { font-size: 0.9rem; color: #777; font-family: Arial, sans-serif; }
+
+/* ── Footer ── */
+.site-footer {
+  margin-top: 4rem;
+  padding: 1.5rem 2rem;
+  background: #111;
+  color: #aaa;
+  font-size: 0.85rem;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+.site-footer a { color: #ccc; }
+
+/* ── Responsive ── */
+@media (max-width: 600px) {
+  .site-header { flex-direction: column; align-items: flex-start; }
+  nav ul { gap: 0.4rem 0.8rem; }
+  h1 { font-size: 1.6rem; }
+}
