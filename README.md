@@ -229,7 +229,7 @@ flowchart TB
 
 A[User Browser]
 
-B[thornburyswingband.co.uk)<br>Domain registered at names.co.uk]
+B[thornburyswingband.co.uk<br>Domain registered at names.co.uk]
 
 C[names.co.uk DNS<br>Nameservers → Cloudflare]
 
