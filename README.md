@@ -10,7 +10,7 @@ Plain static HTML site served via GitHub Pages.
 2. [Past events](#-past-events)
 3. [Band members](#-band-members) and [Vacancies](#-vacancies)
 
-## ✏️ Stuff that goes out of date more slowly (but eventually ...)
+## Stuff that goes out of date more slowly (but eventually ...)
 
 4. [Repertoire](#-current-repertoire)
 5. [Sound Engineer fees](#-sound-engineer-fees)
