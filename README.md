@@ -6,10 +6,10 @@ Plain static HTML site served via GitHub Pages.
 
 ## ✏️ Stuff that goes out of date quickly (so worth editing first)
 
-1. [Events - upcoming](#upcoming-events)
-2. [events - past](#past-events)
-3. [Lineup - current](#band-members) and [Lineup- Vacancies](#vacancies)
-4. [Engineer fees](#sound-engineer-fees)
+1. [Upcoming events](#-upcoming-events)
+2. [Past events](#-past-events)
+3. [Band members](#-band-members) and [Vacancies](#-vacancies)
+4. [Sound Engineer fees](#-sound-engineer-fees)
 5. Line numbers in this README
    
 You can edit any page directly on GitHub — no software needed.
