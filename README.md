@@ -16,7 +16,7 @@ Plain static HTML site served via GitHub Pages.
 5. [Repertoire](#-current-repertoire)
 6. [Sound Engineer fees](#-sound-engineer-fees)
 7. [Practice venue](#-practices)
-8. [MD](#-musical-director)
+8. [MD](#-music-director)
 9. [Manager](#-manager)
    
 You can edit any page directly on GitHub — no software needed.
@@ -131,7 +131,7 @@ The lineup is a single paragraph — just edit the names directly:
 ```
 ---
 
-### 🧑‍✈️ Manager
+### 🎸 Manager
 
 **File:** [`your-event/index.html`](../../edit/main/your-event/index.html#L35)
 *(link opens at the Your Event section, around line 35, see also line 92*
