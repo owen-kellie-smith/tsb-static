@@ -1,0 +1,84 @@
+---
+title: Media – Thornbury Swing Band
+---
+
+<h1>Media</h1>
+
+<p>Just a few tracks and videos from the past few years &ndash; we hope you enjoy them!</p>
+
+<h2>Audio</h2>
+
+<figure>
+<div class="audio-player">
+<iframe title="A Day in the Life of a Fool featuring Will Swales" loading="lazy" width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F251719801&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500"></iframe>
+</div>
+<figcaption>A Day in the Life of a Fool -- featuring Will Swales</figcaption>
+</figure>
+
+<figure>
+<div class="audio-player">
+<iframe title = "Blue Skies featuring Charlie Atterton" loading="lazy" width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F251719799&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500"></iframe>
+</div>
+<figcaption>Blue Skies -- featuring Charlie Atterton</figcaption>
+</figure>
+
+<figure>
+<div class="audio-player">
+<iframe title = "L-O-V-E featuring Charlie Atterton" loading="lazy" width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F251719798&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500"></iframe>
+</div>
+<figcaption>L-O-V-E -- featuring Charlie Atterton</figcaption>
+</figure>
+
+<figure>
+<div class="audio-player">
+<iframe title ="Pennsylvania 6-5000" loading="lazy" width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F251719796&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500"></iframe>
+</div>
+<figcaption>Pennsylvania 6-5000</figcaption>
+</figure>
+
+
+
+<h2>Video</h2>
+
+
+<figure>
+<lite-youtube videoid="VKOgwzX4qZw"></lite-youtube>
+<figcaption>The Chicken -- Thornbury Carnival &#8216;Swing in the Park&#8217; July 5th 2024</figcaption>
+</figure>
+
+<figure>
+<lite-youtube videoid="GoFP__Pbbys"></lite-youtube>
+<figcaption>It Had Better Be Tonight -- featuring Shairon Levy -- Thornbury Carnival &#8216;Swing in the Park&#8217; July 5th 2024</figcaption>
+</figure>
+
+<figure>
+<lite-youtube videoid="mRWoRQBdBbE"></lite-youtube>
+<figcaption>Opus One -- featuring Shairon Levy -- Thornbury Carnival &#8216;Swing in the Park&#8217; July 5th 2024</figcaption>
+</figure>
+
+<figure>
+<lite-youtube videoid="VyexDxO5X5o"></lite-youtube>
+<figcaption>Everybody Needs a Best Friend -- featuring Shairon Levy</figcaption>
+</figure>
+
+<figure>
+<lite-youtube videoid="x0vVRDLwe64"></lite-youtube>
+<figcaption>The Lady is a Tramp -- featuring Denver Thirlwell</figcaption>
+</figure>
+
+<figure>
+<lite-youtube videoid="EZJDAZ1rKz4"></lite-youtube>
+<figcaption>Sway -- featuring Shairol Levy and  Denver Thirlwell</figcaption>
+</figure>
+
+<figure>
+<lite-youtube videoid="w-uK9Pnob2s"></lite-youtube>
+<figcaption>(Theme from) New York, New York -- featuring Denver Thirlwell</figcaption>
+</figure>
+
+<figure>
+<lite-youtube videoid="faW-qC1STNA"></lite-youtube>
+<figcaption>Li'l Darlin -- featuring Heather Staley</figcaption>
+</figure>
+
+

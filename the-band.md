@@ -1,0 +1,70 @@
+---
+title: The Band – Thornbury Swing Band
+---
+
+<h1>The Band</h1>
+
+<a href="../assets/uploads/2021/08/60951596-2344547155597320-4878214435933519872-o-18.jpg" class="glightbox" data-description="Thornbury Swing Band group photo"><img src="../assets/uploads/2021/08/60951596-2344547155597320-4878214435933519872-o-18.jpg"
+     alt="Thornbury Swing Band group photo" style="max-width:100%"></a>
+
+<blockquote>
+  I am sure you are all still shattered from last night. You all worked so hard to make the
+  evening go with a &ldquo;Swing&rdquo;. I had many comments last night and also this morning
+  about how fantastic you all are and that they enjoyed the evening.
+  <cite>Bev, Event organiser</cite>
+</blockquote>
+
+<p>Thornbury Swing Band was formed in 2008 by Richard Gulliver, a local saxophone and clarinet
+player. Sadly, Richard passed away in early 2010 but the band proudly plays on in his memory,
+now under the direction of Chris White-Horne.</p>
+
+<p>The band plays swing jazz instrumental and vocal numbers from the 1930s right up to modern
+times. The full, classic big band has a line up of saxophones, trombones, trumpets, and male
+and female vocalists, and is supported by a rhythm section of bass, guitar, keyboard and drums.
+We typically play 2&times;45&ndash;50 minute sets.</p>
+
+<p>After a successful debut, we&rsquo;re delighted to also offer the &lsquo;TSB Small Band&rsquo;.
+With a rhythm section of drums, bass, guitar and keys, a singer, and a horn &amp; sax section,
+it&rsquo;s ideal for smaller venues or as an addition to a full-band booking.</p>
+
+<h2>Raising money for good causes</h2>
+
+<a href="../assets/uploads/2021/07/charity-donation-960x852-10353.jpg" class="glightbox" data-description="Charity donation presentation"><img src="../assets/uploads/2021/07/charity-donation-960x852-10353.jpg"
+     alt="Charity donation presentation" style="max-width:500px"></a>
+
+<p>Since 2008 we have donated and helped raise several thousand pounds for charities such as
+Brain Tumour Support, Bristol Children&rsquo;s Hospital, the Lydia Biddlecombe Star Tribute
+Fund, Holly Hedge Animal Sanctuary, The Grand Appeal, and many more local good causes.</p>
+<p>Because Thornbury Swing Band is not-for-profit, charities organising their own events 
+can typically raise around £1000 from an event with us. If you would be interested in the band 
+supporting your charity, please take a look at our
+ <a href="../assets/thornbury-swing-band-fundraising-with-a-swing.pdf">Fundraising with a Swing leaflet</a>.
+</p>
+
+<h2>Band Members</h2>
+
+<p><strong>Trombones:</strong> Chris White-Horne, Dave Smallwood, Rhodri Spearing, Sue Bannister<br>
+<strong>Trumpets:</strong> David Lloyd, Heather Staley, Simon Porter, Will Swales<br>
+<strong>Saxophones:</strong> Alison Boles, Bill Howgego, Hugh Price, Jill Watson, Katherine Baly, Petra McKay, Sue Wright<br>
+<strong>Vocals:</strong> Denver Thirlwell, Shairon Levy<br>
+<strong>Rhythm Section:</strong> Dave Mew (drums), Ben Rosow (guitar), Luigi Caludi (bass), Matt Spencer (keys)<br>
+<strong>PA & Sound Engineer:</strong> For PA and sound engineering, our preference is to use the excellent services of Simon Plater of <a href="http://www.farmyardstudios.co.uk/">Farmyard Studios</a>.
+</p>
+
+<h2>Join us</h2>
+
+<p>We are always looking for new members and supporters. <strong>Current vacancies: Trombone
+players.</strong></p>
+
+<p>We practise most Thursday evenings, 7:30&ndash;9:30 at Almondsbury Creative,
+Gloucester Road, Almondsbury, Bristol, BS32 4AA.</p>
+
+<div>
+<iframe
+  src="https://www.google.com/maps?q=Almondsbury+Creative,+Gloucester+Road,+Almondsbury,+BS32+4AA&output=embed"
+  width="100%" height="300" style="border:0;" allowfullscreen loading="lazy">
+</iframe>
+</div>
+
+<p><a href="../contact/">Drop us a line</a> if you&rsquo;d like to get involved.</p>
+
