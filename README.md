@@ -10,7 +10,8 @@ Plain static HTML site served via GitHub Pages.
 2. [Past events](#-past-events)
 3. [Band members](#-band-members) and [Vacancies](#-vacancies)
 4. [Sound Engineer fees](#-sound-engineer-fees)
-5. Line numbers in this README
+5. [Repertoire](#-current-repertoire)
+6. Line numbers in this README
    
 You can edit any page directly on GitHub — no software needed.
 
@@ -104,6 +105,15 @@ The lineup is a single paragraph — just edit the names directly:
 ```
 
 ---
+
+### 💷 Current repertoire
+
+**File:** [`assets/thornbury-swing-band-current-repertoire.pdf`](../../edit/main/assets/thornbury-swing-band-current-repertoire.pdf)
+
+**Referred to by:** [`the-band/index.html`](../../edit/main/your-event/index.html#l51)
+
+---
+
 
 ## 🗂️ File structure
 
