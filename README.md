@@ -52,7 +52,7 @@ To remove a past event, delete everything from `<div class="event">` to the matc
 
 ---
 
-### 🎵 Past events
+### 🎹 Past events
 
 **File:** [`gigs/index.html`](../../edit/main/gigs/index.html#L32)
 *(link opens at the 2024 events list, around line 32)*
