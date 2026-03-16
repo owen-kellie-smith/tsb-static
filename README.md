@@ -19,6 +19,7 @@ Plain static HTML site served via GitHub Pages.
 8. [Manager](#-manager)
    
 You can edit any page directly on GitHub — no software needed.
+
 Once you edit the page you may make the line numbers in this README out of date i.e. wrong - but they
 aren't part of the public site.
 
