@@ -41,5 +41,4 @@ EU General Data Protection Regulation.</p>
 
 <p>This website does not use cookies or any form of tracking to identify who visits our site.</p>
 
-</main>
 
