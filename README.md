@@ -6,7 +6,7 @@ https://owen-kellie-smith.github.io/tsb-static/
 
 aka
 
-https://thornburyswingband.co.uk/  [How?](dns-info)
+https://thornburyswingband.co.uk/  [How?](#dns-info)
 
 ---
 
