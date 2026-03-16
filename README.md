@@ -4,8 +4,14 @@ Plain static HTML site served via GitHub Pages.
 
 ---
 
-## ✏️ Editing the site
+## ✏️ Stuff that goes out of date quickly (so worth editing first)
 
+1. [Upcoming events](#upcoming-events)
+2. [Past events](#past-events)
+3. [Band members](#band-members) and [Vacancies](#vacancies)
+4. [Sound engineer fees](#sound-engineer-fees)
+5. Line numbers in this README
+   
 You can edit any page directly on GitHub — no software needed.
 
 **How to edit a file:**
@@ -62,7 +68,7 @@ With a quote:
 
 ---
 
-### 🎷 Band members / lineup
+### 🎷 Band members
 
 **File:** [`the-band/index.html`](../../edit/main/the-band/index.html#L59)
 *(link opens at the Band Members section, around line 59)*
@@ -76,9 +82,24 @@ The lineup is a single paragraph — just edit the names directly:
 </p>
 ```
 
-Vacancies are a few lines below (around line 67):
+### 🈳 Vacancies
+
+**File:** [`the-band/index.html`](../../edit/main/the-band/index.html#L67)
+*(link opens at the Band Members section, around line 67)*
+
 ```html
 <p>Current Vacancies: Trombone players</p>
+```
+
+---
+
+### 💷 Sound engineer fees
+
+**File:** [`the-band/index.html`](../../edit/main/your-event/index.html#l74)
+*(link opens at the Fees section, around line 74)*
+
+```html
+  <li><strong>Fees:</strong> ... own PA system and sound engineer ... usually around £200 although it can be up to £500 ....</li>
 ```
 
 ---
