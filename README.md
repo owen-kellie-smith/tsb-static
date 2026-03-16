@@ -9,9 +9,13 @@ Plain static HTML site served via GitHub Pages.
 1. [Upcoming events](#-upcoming-events)
 2. [Past events](#-past-events)
 3. [Band members](#-band-members) and [Vacancies](#-vacancies)
-4. [Sound Engineer fees](#-sound-engineer-fees)
+4. Line numbers in this README
+
+## ✏️ Stuff that goes out of date more slowly (but eventually ...)
+
 5. [Repertoire](#-current-repertoire)
-6. Line numbers in this README
+6. [Sound Engineer fees](#-sound-engineer-fees)
+7. [Practice venue](#-practices)
    
 You can edit any page directly on GitHub — no software needed.
 
