@@ -16,7 +16,7 @@ Plain static HTML site served via GitHub Pages.
 5. [Repertoire](#-current-repertoire)
 6. [Sound Engineer fees](#-sound-engineer-fees)
 7. [Practice venue](#-practices)
-8. [MD](#-music-director)
+8. [Music Director](#-music-director)
 9. [Manager](#-manager)
    
 You can edit any page directly on GitHub — no software needed.
@@ -100,6 +100,16 @@ The lineup is a single paragraph — just edit the names directly:
 
 ---
 
+
+### 🎤 Current repertoire
+
+**File:** [`assets/thornbury-swing-band-current-repertoire.pdf`](../../blob/main/assets/thornbury-swing-band-current-repertoire.pdf)
+
+**Referred to by:** [`the-band/index.html line 52`](../../blob/main/your-event/index.html#l51)
+
+---
+
+
 ### 💷 Sound engineer fees
 
 **File:** [`the-band/index.html`](../../edit/main/your-event/index.html#l78)
@@ -142,15 +152,6 @@ The lineup is a single paragraph — just edit the names directly:
 <p>... Luigi Caludi will be your lead point of contact ...</p>
 ```
 ---
-
-### 🎤 Current repertoire
-
-**File:** [`assets/thornbury-swing-band-current-repertoire.pdf`](../../blob/main/assets/thornbury-swing-band-current-repertoire.pdf)
-
-**Referred to by:** [`the-band/index.html line 52`](../../blob/main/your-event/index.html#l51)
-
----
-
 
 ## 🗂️ File structure
 
