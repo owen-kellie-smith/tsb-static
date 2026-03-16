@@ -133,7 +133,7 @@ The lineup is a single paragraph — just edit the names directly:
 *(link opens at the Band Vacancies section, around line 70*
 
 ```html
-<p>... Thursday evenings, 7:30&ndash;9:30 at Almondsbury Sports and Social Club ...</p>
+<p>... Thursday evenings, 7:30&ndash;9:30 at Almondsbury  ...</p>
 ```
 ---
 
