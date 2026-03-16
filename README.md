@@ -19,7 +19,7 @@ https://owen-kellie-smith.github.io/tsb-static/
 6. [Practice venue](#-practices)
 7. [Music Director](#-music-director)
 8. [Manager](#-manager)
-9. [Email addresses](#-email-addresses)
+9. [Email addresses and phone numbers](#-email-addresses-and-phone-numbers)
    
 You can edit any page directly on GitHub — no software needed.
 
