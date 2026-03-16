@@ -148,6 +148,10 @@ The lineup is a single paragraph — just edit the names directly:
 
 ### 🎸 Manager
 
+**File:** [`assets/useful_information_for_event_organisers.pdf`](../../blob/main/assets/useful_information_for_event_organisers.pdf) 
+p.2 `Liaison  
+     Luigi Caludi will be your lead point of contact ... `
+
 **File:** [`your-event/index.html`](../../edit/main/your-event/index.html#L35)
 *(link opens at the Your Event section, around line 35, see also line 91*
 
