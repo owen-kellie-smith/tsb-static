@@ -108,7 +108,7 @@ The lineup is a single paragraph — just edit the names directly:
 
 ### 💷 Current repertoire
 
-**File:** [`assets/thornbury-swing-band-current-repertoire.pdf`](../../edit/main/assets/thornbury-swing-band-current-repertoire.pdf)
+**File:** [`assets/thornbury-swing-band-current-repertoire.pdf`](../../blob/main/assets/thornbury-swing-band-current-repertoire.pdf)
 
 **Referred to by:** [`the-band/index.html`](../../edit/main/your-event/index.html#l51)
 
