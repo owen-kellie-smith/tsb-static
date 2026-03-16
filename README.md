@@ -107,6 +107,7 @@ The lineup is a single paragraph — just edit the names directly:
   <li><strong>Fees:</strong> ... own PA system and sound engineer
   ... usually around £200 although it can be up to £500 ....</li>
 ```
+---
 
 ### 🎵 Practices
 
