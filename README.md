@@ -104,9 +104,17 @@ The lineup is a single paragraph — just edit the names directly:
   ... usually around £200 although it can be up to £500 ....</li>
 ```
 
+### 🎵 Practices
+
+**File:** [`the-band/index.html`](../../edit/main/the-band/index.html#L70)
+*(link opens at the Band Vacancies section, around line 70*
+
+```html
+<p>... Thursday evenings, 7:30&ndash;9:30 at Almondsbury Sports and Social Club ...</p>
+```
 ---
 
-### 💷 Current repertoire
+### 🎙️ Current repertoire
 
 **File:** [`assets/thornbury-swing-band-current-repertoire.pdf`](../../blob/main/assets/thornbury-swing-band-current-repertoire.pdf)
 
