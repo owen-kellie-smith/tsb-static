@@ -16,6 +16,8 @@ Plain static HTML site served via GitHub Pages.
 5. [Repertoire](#-current-repertoire)
 6. [Sound Engineer fees](#-sound-engineer-fees)
 7. [Practice venue](#-practices)
+8. [MD](#-musical-director)
+9. [Manager](#-manager)
    
 You can edit any page directly on GitHub — no software needed.
 
@@ -116,6 +118,28 @@ The lineup is a single paragraph — just edit the names directly:
 
 ```html
 <p>... Thursday evenings, 7:30&ndash;9:30 at Almondsbury Sports and Social Club ...</p>
+```
+---
+
+### 🏊 Music director
+
+**File:** [`the-band/index.html`](../../edit/main/the-band/index.html#L37)
+*(link opens at the Band section, around line 37*
+
+```html
+<p>... now under the direction of Chris White-Horne.</p>
+```
+---
+
+### 🧑‍✈️ Manager
+
+**File:** [`your-event/index.html`](../../edit/main/your-event/index.html#L35)
+*(link opens at the Your Event section, around line 35, see also line 92*
+
+```html
+<p>... Luigi will be your ... contact. Luigi will liaise with you ...</p>
+...
+<p>... Luigi Caludi will be your lead point of contact ...</p>
 ```
 ---
 
