@@ -21,7 +21,7 @@ Plain static HTML site served via GitHub Pages.
 You can edit any page directly on GitHub — no software needed.
 
 Once you edit the page you may make the line numbers in this README out of date i.e. wrong - but they
-aren't part of the public site.
+aren't part of the public site, so just update them if you want to help future you / some other editor.
 
 
 **How to edit a file:**
