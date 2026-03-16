@@ -179,6 +179,12 @@ p.2 `Liaison
 bookings@thornburyswingband.com 07749 221415
 ```
 
+**File:** [`assets/thornbury-swing-band-fundraising-with-a-swing.pdf`](../../blob/main/assets/thornbury-swing-band-fundraising-with-a-swing.pdf) 
+
+```
+bookings@thornburyswingband.com 
+```
+
 ---
 
 ## 🗂️ File structure
