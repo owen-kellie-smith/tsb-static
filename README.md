@@ -163,7 +163,7 @@ p.2 `Liaison
 ```
 ---
 
-### 📧 Email addresses
+### 📧 Email addresses and phone numbers
 
 
 **File:** [`contact/index.html`](../../edit/main/contact/index.html#L35)
@@ -172,6 +172,13 @@ p.2 `Liaison
 ```html
 <p>... thornburyswingband@gmail.com (twice)...</p>
 ```
+
+**File:** [`assets/music-to-make-your-wedding-e28098swingu2019.pdf`](../../blob/main/assets/music-to-make-your-wedding-e28098swingu2019.pdf) 
+
+```
+bookings@thornburyswingband.com 07749 221415
+```
+
 ---
 
 ## 🗂️ File structure
