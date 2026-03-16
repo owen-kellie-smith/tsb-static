@@ -110,7 +110,7 @@ The lineup is a single paragraph — just edit the names directly:
 
 **File:** [`assets/thornbury-swing-band-current-repertoire.pdf`](../../blob/main/assets/thornbury-swing-band-current-repertoire.pdf)
 
-**Referred to by:** [`the-band/index.html line 52`](../../edit/main/your-event/index.html#l51)
+**Referred to by:** [`the-band/index.html line 52`](../../blob/main/your-event/index.html#l51)
 
 ---
 
