@@ -118,7 +118,7 @@ The lineup is a single paragraph — just edit the names directly:
 ```
 ---
 
-### 🎙️ Current repertoire
+### 🎤 Current repertoire
 
 **File:** [`assets/thornbury-swing-band-current-repertoire.pdf`](../../blob/main/assets/thornbury-swing-band-current-repertoire.pdf)
 
