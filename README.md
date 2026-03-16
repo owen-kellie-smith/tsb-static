@@ -193,13 +193,12 @@ bookings@thornburyswingband.com
 index.html              – Home page
 the-band/               – About the band & lineup
 your-event/             – Booking information
-events-coming-up/       – Upcoming events  ← updated most often
+events-coming-up/       – Upcoming events  
 media/                  – Audio & video
-gigs/                   – Past events      ← updated most often
+gigs/                   – Past events      
 contact/                – Contact & privacy policy
-assets/
+assets/                 – photos and PDFs
   style.css             – Shared styles
-  uploads/              – All photos and PDFs
 ```
 
 ---
