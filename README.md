@@ -6,7 +6,6 @@ Plain static HTML site served via GitHub Pages.
 
 ## ✏️ Stuff that goes out of date quickly (so worth editing first)
 
-0. Line numbers in this README (as soon as you change anything)
 1. [Upcoming events](#-upcoming-events)
 2. [Past events](#-past-events)
 3. [Band members](#-band-members) and [Vacancies](#-vacancies)
@@ -20,6 +19,9 @@ Plain static HTML site served via GitHub Pages.
 8. [Manager](#-manager)
    
 You can edit any page directly on GitHub — no software needed.
+Once you edit the page you may make the line numbers in this README out of date i.e. wrong - but they
+aren't part of the public site.
+
 
 **How to edit a file:**
 1. Click the link below for the section you want to change
