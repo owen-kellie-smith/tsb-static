@@ -19,6 +19,7 @@ https://owen-kellie-smith.github.io/tsb-static/
 6. [Practice venue](#-practices)
 7. [Music Director](#-music-director)
 8. [Manager](#-manager)
+9. [Email addresses](#-email-addresses)
    
 You can edit any page directly on GitHub — no software needed.
 
@@ -159,6 +160,17 @@ p.2 `Liaison
 <p>... Luigi will be your ... contact. Luigi will liaise with you ...</p>
 ...
 <p>... Luigi Caludi will be your lead point of contact ...</p>
+```
+---
+
+### 📧 Email addresses
+
+
+**File:** [`contact/index.html`](../../edit/main/contact/index.html#L35)
+*(link opens at the Contact section, around line 35*
+
+```html
+<p>... thornburyswingband@gmail.com (twice)...</p>
 ```
 ---
 
