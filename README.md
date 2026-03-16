@@ -100,8 +100,8 @@ The lineup is a single paragraph — just edit the names directly:
 
 ### 💷 Sound engineer fees
 
-**File:** [`the-band/index.html`](../../edit/main/your-event/index.html#l74)
-*(link opens at the Fees section, around line 74)*
+**File:** [`the-band/index.html`](../../edit/main/your-event/index.html#l78)
+*(link opens at the Fees section, around line 78)*
 
 ```html
   <li><strong>Fees:</strong> ... own PA system and sound engineer
