@@ -1,32 +1,113 @@
 # Thornbury Swing Band – Static Site
 
-Plain static HTML site, ready to serve via GitHub Pages.
+Plain static HTML site served via GitHub Pages.
 
-## Structure
+---
+
+## ✏️ Editing the site
+
+You can edit any page directly on GitHub — no software needed.
+
+**How to edit a file:**
+1. Click the link below for the section you want to change
+2. Click the **pencil icon** (✏️) in the top-right of the file view
+3. Make your changes
+4. Scroll to the bottom, write a short note about what you changed, and click **Commit changes**
+
+The site updates automatically within a minute or two.
+
+---
+
+### 📅 Upcoming events
+
+**File:** [`events-coming-up/index.html`](../../edit/main/events-coming-up/index.html#L36)
+*(link opens at the event block, around line 36)*
+
+Each event looks like this — copy and paste to add more:
+
+```html
+<div class="event">
+  <h3>Event name and location</h3>
+  <p class="date">Saturday 14 June 2025 &ndash; 7:30pm</p>
+  <p>Any extra details, e.g. venue address or ticket link.</p>
+</div>
+```
+
+To remove a past event, delete everything from `<div class="event">` to the matching `</div>`.
+
+---
+
+### 🎵 Past events
+
+**File:** [`gigs/index.html`](../../edit/main/gigs/index.html#L32)
+*(link opens at the 2024 events list, around line 32)*
+
+- Events are listed as `<li>` items inside `<ul class="info-list">` blocks
+- Each year has its own `<h2>Events in 20XX</h2>` heading
+- To add a new year, copy an existing `<h2>` + `<ul>` block and update the year and events
+- Paste new events at the **top** of the relevant year's list (most recent first)
+
+A basic entry looks like:
+```html
+<li><strong>Saturday 1 March 2025</strong> &ndash; Event name, Venue name.</li>
+```
+
+With a quote:
+```html
+<li><strong>Saturday 1 March 2025</strong> &ndash; Event name, Venue.
+  <blockquote>Quote from the organiser or audience.
+  <cite>&mdash; Their name</cite></blockquote>
+</li>
+```
+
+---
+
+### 🎷 Band members / lineup
+
+**File:** [`the-band/index.html`](../../edit/main/the-band/index.html#L59)
+*(link opens at the Band Members section, around line 59)*
+
+The lineup is a single paragraph — just edit the names directly:
+
+```html
+<p><strong>Trombones:</strong> Name, Name, Name<br>
+<strong>Trumpets:</strong> Name, Name, Name<br>
+...
+</p>
+```
+
+Vacancies are a few lines below (around line 67):
+```html
+<p>Current Vacancies: Trombone players</p>
+```
+
+---
+
+## 🗂️ File structure
 
 ```
-index.html              – Home
-the-band/               – About the band
-your-event/             – Booking info
-events-coming-up/       – Upcoming events
+index.html              – Home page
+the-band/               – About the band & lineup
+your-event/             – Booking information
+events-coming-up/       – Upcoming events  ← updated most often
 media/                  – Audio & video
-gigs/                   – Past events
+gigs/                   – Past events      ← updated most often
 contact/                – Contact & privacy policy
 assets/
-  style.css             – Shared stylesheet
-  uploads/              – All images from original WordPress site
+  style.css             – Shared styles
+  uploads/              – All photos and PDFs
 ```
 
-## GitHub Pages setup
+---
+
+## 🚀 GitHub Pages setup (first time only)
 
 1. Push this folder to a GitHub repository
 2. Go to **Settings → Pages**
 3. Set source to **main branch / root folder**
-4. Your site will be live at `https://<username>.github.io/<repo>/`
+4. Site goes live at `https://<username>.github.io/<repo>/` ie in this case at `https://owen-kellie-smith.github.io/tsb-static/`
 
-## Notes
-
-- `.nojekyll` is present so GitHub Pages won't try to process as Jekyll
-- All image paths are relative — no changes needed for subdirectory hosting
-- Contact form uses a `mailto:` link (WordPress form not available in static)
-- Media page has placeholder text — embed audio/video URLs when available
+**Notes:**
+- `.nojekyll` is present so GitHub Pages skips Jekyll processing
+- Contact form uses a `mailto:` link (the WordPress form doesn't work in static sites)
+- Media page has placeholder text — add SoundCloud/YouTube embed links when available
