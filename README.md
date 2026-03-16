@@ -6,18 +6,18 @@ Plain static HTML site served via GitHub Pages.
 
 ## ✏️ Stuff that goes out of date quickly (so worth editing first)
 
+0. Line numbers in this README (as soon as you change anything)
 1. [Upcoming events](#-upcoming-events)
 2. [Past events](#-past-events)
 3. [Band members](#-band-members) and [Vacancies](#-vacancies)
-4. Line numbers in this README
 
 ## ✏️ Stuff that goes out of date more slowly (but eventually ...)
 
-5. [Repertoire](#-current-repertoire)
-6. [Sound Engineer fees](#-sound-engineer-fees)
-7. [Practice venue](#-practices)
-8. [Music Director](#-music-director)
-9. [Manager](#-manager)
+4. [Repertoire](#-current-repertoire)
+5. [Sound Engineer fees](#-sound-engineer-fees)
+6. [Practice venue](#-practices)
+7. [Music Director](#-music-director)
+8. [Manager](#-manager)
    
 You can edit any page directly on GitHub — no software needed.
 
@@ -144,7 +144,7 @@ The lineup is a single paragraph — just edit the names directly:
 ### 🎸 Manager
 
 **File:** [`your-event/index.html`](../../edit/main/your-event/index.html#L35)
-*(link opens at the Your Event section, around line 35, see also line 92*
+*(link opens at the Your Event section, around line 35, see also line 91*
 
 ```html
 <p>... Luigi will be your ... contact. Luigi will liaise with you ...</p>
