@@ -30,7 +30,7 @@ You can edit any page directly on GitHub — no software needed.
 The site updates automatically within a minute or two.
 
 **How to change something (if you are not the repo owner):**
-1. Raise an issue i.e. describe what you want, or
+1. Raise an [issue](https://github.com/owen-kellie-smith/tsb-static/issues) i.e. describe what you want, or
 2. Fork the repo (make a copy that you control)
 3. Edit the fork.
 4. Render the fork by running (in your repo root directory)
