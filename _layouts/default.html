@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{page.title}} &mdash; Thornbury Swing Band</title>
+  <title>{{page.title}} {% if page.title and page.title != "" %}&mdash; {% endif %}Thornbury Swing Band</title>
   <link rel="stylesheet" href="assets/style.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
   <script type="module" src="https://unpkg.com/lite-youtube-embed@0.3.0/src/lite-yt-embed.js"></script>

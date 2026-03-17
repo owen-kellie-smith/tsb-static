@@ -56,7 +56,7 @@ David Lloyd, Heather Staley, Simon Porter, Will Swales
 Alison Boles, Bill Howgego, Hugh Price, Jill Watson, Katherine Baly, Petra McKay, Sue Wright
 
 **Vocals**  
-Denver Thirlwell, Shairon Levy
+Denver Thirlwell, Shairon Lloyd
 
 **Rhythm Section**  
 Dave Mew (drums), Ben Rosow (guitar), Luigi Caludi (bass), Matt Spencer (keys)
