@@ -21,13 +21,23 @@ https://thornburyswingband.co.uk/  [How?](#dns-info)
    
 You can edit any page directly on GitHub — no software needed.
 
-**How to edit a file:**
+**How to edit a file (if you are the repo owner):**
 1. Click the link below for the section you want to change
 2. Click the **pencil icon** (✏️) in the top-right of the file view
 3. Make your changes
 4. Click **Commit changes**
 
 The site updates automatically within a minute or two.
+
+**How to change something (if you are not the repo owner):**
+1. Raise an issue i.e. describe what you want, or
+2. Fork the repo (make a copy that you control)
+3. Edit the fork.
+4. Render the fork by running (in your repo root directory)
+`jekyll serve`
+and then browsing to
+`http://localhost:4000`
+5. Create a pull request (that your changes be incorporated into the main site).
 
 ---
 
@@ -98,7 +108,7 @@ _layout			- Header and footer
 ## DNS info
 
 ## Domain name management (info)
-[thornburyswingband.co.uk is registered (at names.co.uk), (for free) for a year until March 2027. names.co.uk DNS settings forward to Cloudflare.](https://www.whois.com/whois/thornburyswingband.co.uk) Cloudflare [has a CNAME for thornburyswingband.co.uk which is owen-kellie-smith.github.io](https://mxtoolbox.com/SuperTool.aspx?action=mx%3athornburyswingband.co.uk)&run=toolpage).  Github fowards to etcb-website/docs via this repo > Settings > Pages (Custom Domain) which created [a CNAME in root](CNAME).
+[thornburyswingband.co.uk is registered (at names.co.uk), (for free) for a year until March 2027. names.co.uk DNS settings forward to Cloudflare.](https://www.whois.com/whois/thornburyswingband.co.uk) Cloudflare [has a CNAME for thornburyswingband.co.uk which is owen-kellie-smith.github.io](https://mxtoolbox.com/SuperTool.aspx?action=cname%3athornburyswingband.co.uk)&run=toolpage).  Github fowards to etcb-website/docs via this repo > Settings > Pages (Custom Domain) which created [a CNAME in root](CNAME).
 
 ```mermaid
 flowchart TB
