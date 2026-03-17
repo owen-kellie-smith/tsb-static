@@ -1,63 +1,82 @@
 ---
-title: The Band – Thornbury Swing Band
+title: The Band
 ---
 
-<h1>The Band</h1>
+# The Band
 
-<a href="../assets/uploads/2021/08/60951596-2344547155597320-4878214435933519872-o-18.jpg" class="glightbox" data-description="Thornbury Swing Band group photo"><img src="../assets/uploads/2021/08/60951596-2344547155597320-4878214435933519872-o-18.jpg"
-     alt="Thornbury Swing Band group photo" style="max-width:100%"></a>
+[![Thornbury Swing Band group photo](../assets/uploads/2021/08/60951596.jpg)](../assets/uploads/2021/08/60951596.jpg)
 
-<blockquote>
-  I am sure you are all still shattered from last night. You all worked so hard to make the
-  evening go with a &ldquo;Swing&rdquo;. I had many comments last night and also this morning
-  about how fantastic you all are and that they enjoyed the evening.
-  <cite>Bev, Event organiser</cite>
-</blockquote>
+> I am sure you are all still shattered from last night. You all worked so hard to make the
+> evening go with a “Swing”. I had many comments last night and also this morning
+> about how fantastic you all are and that they enjoyed the evening.  
+> — *Bev, Event organiser*
 
-<p>Thornbury Swing Band was formed in 2008 by Richard Gulliver, a local saxophone and clarinet
+Thornbury Swing Band was formed in 2008 by Richard Gulliver, a local saxophone and clarinet
 player. Sadly, Richard passed away in early 2010 but the band proudly plays on in his memory,
-now under the direction of Chris White-Horne.</p>
+now under the direction of Chris White-Horne.
 
-<p>The band plays swing jazz instrumental and vocal numbers from the 1930s right up to modern
+The band plays swing jazz instrumental and vocal numbers from the 1930s right up to modern
 times. The full, classic big band has a line up of saxophones, trombones, trumpets, and male
-and female vocalists, and is supported by a rhythm section of bass, guitar, keyboard and drums.
-We typically play 2&times;45&ndash;50 minute sets.</p>
+and female vocalists, supported by a rhythm section of bass, guitar, keyboard and drums.
 
-<p>After a successful debut, we&rsquo;re delighted to also offer the &lsquo;TSB Small Band&rsquo;.
-With a rhythm section of drums, bass, guitar and keys, a singer, and a horn &amp; sax section,
-it&rsquo;s ideal for smaller venues or as an addition to a full-band booking.</p>
+We typically play **2×45–50 minute sets**.
 
-<h2>Raising money for good causes</h2>
+After a successful debut, we’re delighted to also offer the **TSB Small Band**.  
+With a rhythm section of drums, bass, guitar and keys, a singer, and a horn & sax section,
+it’s ideal for smaller venues or as an addition to a full-band booking.
 
-<a href="../assets/uploads/2021/07/charity-donation-960x852-10353.jpg" class="glightbox" data-description="Charity donation presentation"><img src="../assets/uploads/2021/07/charity-donation-960x852-10353.jpg"
-     alt="Charity donation presentation" style="max-width:500px"></a>
+## Raising money for good causes
 
-<p>Since 2008 we have donated and helped raise several thousand pounds for charities such as
-Brain Tumour Support, Bristol Children&rsquo;s Hospital, the Lydia Biddlecombe Star Tribute
-Fund, Holly Hedge Animal Sanctuary, The Grand Appeal, and many more local good causes.</p>
-<p>Because Thornbury Swing Band is not-for-profit, charities organising their own events 
-can typically raise around £1000 from an event with us. If you would be interested in the band 
-supporting your charity, please take a look at our
- <a href="../assets/thornbury-swing-band-fundraising-with-a-swing.pdf">Fundraising with a Swing leaflet</a>.
-</p>
+![Charity donation presentation](../assets/uploads/2021/07/charity-donation-960x852-10353.jpg)
 
-<h2>Band Members</h2>
+Since 2008 we have donated and helped raise several thousand pounds for charities such as:
 
-<p><strong>Trombones:</strong> Chris White-Horne, Dave Smallwood, Rhodri Spearing, Sue Bannister<br>
-<strong>Trumpets:</strong> David Lloyd, Heather Staley, Simon Porter, Will Swales<br>
-<strong>Saxophones:</strong> Alison Boles, Bill Howgego, Hugh Price, Jill Watson, Katherine Baly, Petra McKay, Sue Wright<br>
-<strong>Vocals:</strong> Denver Thirlwell, Shairon Levy<br>
-<strong>Rhythm Section:</strong> Dave Mew (drums), Ben Rosow (guitar), Luigi Caludi (bass), Matt Spencer (keys)<br>
-<strong>PA & Sound Engineer:</strong> For PA and sound engineering, our preference is to use the excellent services of Simon Plater of <a href="http://www.farmyardstudios.co.uk/">Farmyard Studios</a>.
-</p>
+- Brain Tumour Support  
+- Bristol Children’s Hospital  
+- The Lydia Biddlecombe Star Tribute Fund  
+- Holly Hedge Animal Sanctuary  
+- The Grand Appeal  
+- and many more local good causes
 
-<h2>Join us</h2>
+Because Thornbury Swing Band is **not-for-profit**, charities organising their own events
+can typically raise around **£1000** from an event with us.
 
-<p>We are always looking for new members and supporters. <strong>Current vacancies: Trombone
-players.</strong></p>
+If you would be interested in the band supporting your charity, see our  
+[Fundraising with a Swing leaflet](../assets/thornbury-swing-band-fundraising-with-a-swing.pdf).
 
-<p>We practise most Thursday evenings, 7:30&ndash;9:30 at Almondsbury Creative,
-Gloucester Road, Almondsbury, Bristol, BS32 4AA.</p>
+## Band Members
+
+**Trombones**  
+Chris White-Horne, Dave Smallwood, Rhodri Spearing, Sue Bannister
+
+**Trumpets**  
+David Lloyd, Heather Staley, Simon Porter, Will Swales
+
+**Saxophones**  
+Alison Boles, Bill Howgego, Hugh Price, Jill Watson, Katherine Baly, Petra McKay, Sue Wright
+
+**Vocals**  
+Denver Thirlwell, Shairon Levy
+
+**Rhythm Section**  
+Dave Mew (drums), Ben Rosow (guitar), Luigi Caludi (bass), Matt Spencer (keys)
+
+**PA & Sound Engineer**  
+Our preference is to use the excellent services of  
+[Farmyard Studios](http://www.farmyardstudios.co.uk/).
+
+## Join us
+
+We are always looking for new members and supporters.  
+**Current vacancies: Trombone players.**
+
+We practise most **Thursday evenings, 7:30–9:30** at:
+
+**Almondsbury Creative**  
+Gloucester Road  
+Almondsbury  
+Bristol  
+BS32 4AA
 
 <div>
 <iframe
@@ -66,5 +85,6 @@ Gloucester Road, Almondsbury, Bristol, BS32 4AA.</p>
 </iframe>
 </div>
 
-<p><a href="../contact/">Drop us a line</a> if you&rsquo;d like to get involved.</p>
+[Drop us a line](./contact.html) if you’d like to get involved.
+
 

@@ -1,5 +1,5 @@
 ---
-title: Events Coming Up – Thornbury Swing Band
+title: Events Coming Up
 ---
 
 <h1>Events Coming Up</h1>

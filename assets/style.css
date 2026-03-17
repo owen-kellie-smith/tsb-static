@@ -37,6 +37,7 @@ a:hover { color: #c00; }
   display: block;
   font-size: 0.85rem;
   font-style: italic;
+  align-items: center;
   color: #ccc;
   font-weight: normal;
 }
@@ -55,6 +56,26 @@ nav a {
   font-family: Arial, sans-serif;
 }
 nav a:hover, nav a.active { color: #fff; text-decoration: underline; }
+
+/* Page title over background image */
+.page-title-header {
+  background-image: url('/assets/tsb-header-saxes.jpg'); /* replace with your image */
+  background-size: cover;      /* cover the whole header */
+  background-position: center; /* center the image */
+  background-repeat: no-repeat;
+  text-align: center;           /* center text horizontally */
+  padding: 0.4rem 0.1rem;           /* vertical spacing */
+  color: #fff;                  /* white text over image */
+  text-transform: uppercase;    /* force capital letters */
+  font-family: Georgia, 'Times New Roman', serif;
+  box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.4); /* optional: dark overlay for readability */
+}
+
+.page-title-header h1 {
+  margin: 0;
+  font-size: 3rem;              /* adjust to your liking */
+  letter-spacing: 0.1em;        /* spacing between letters */
+}
 
 main {
   max-width: 860px;
@@ -98,6 +119,46 @@ img {
   margin: 1.5rem 0;
 }
 .gallery img { margin: 0; width: 100%; object-fit: cover; aspect-ratio: 4/3; }
+
+/* media page layout */
+
+figure {
+  margin: 2rem auto;
+  max-width: 900px;
+}
+
+figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  text-align: center;
+  color: #555;
+}
+
+/* video grid */
+
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.video-grid figure {
+  margin: 0;
+  max-width: none;
+}
+
+/* make lite-youtube fill the card */
+
+/* ── Video ── */
+lite-youtube {
+  margin: 1.5rem auto;
+  width: 100%;
+  max-width: 100%;
+}
+lite-youtube::before {
+  background-size: cover;
+}
 
 /* ── Info list ── */
 .info-list { padding-left: 1.3rem; }

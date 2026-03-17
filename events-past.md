@@ -1,5 +1,5 @@
 ---
-title: Past Events – Thornbury Swing Band
+title: Past Events
 ---
 
 <h1>Past Events</h1>

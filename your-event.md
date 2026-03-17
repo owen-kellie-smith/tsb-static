@@ -1,5 +1,5 @@
 ---
-title: Your Event – Thornbury Swing Band
+title: Your Event
 ---
 
 <h1>Your Event</h1>

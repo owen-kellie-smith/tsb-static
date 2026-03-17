@@ -1,5 +1,5 @@
 ---
-title: Contact – Thornbury Swing Band
+title: Contact
 ---
 
 <h1>Contact</h1>

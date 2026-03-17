@@ -1,5 +1,5 @@
 ---
-title: Home - TSB
+title: Home
 ---
 
 <h1>Thornbury Swing Band</h1>
