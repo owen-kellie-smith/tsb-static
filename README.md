@@ -34,9 +34,13 @@ The site updates automatically within a minute or two.
 2. Fork the repo (make a copy that you control)
 3. Edit the fork.
 4. Render the fork by running (in your repo root directory)
+
 `jekyll serve`
+
 and then browsing to
+
 `http://localhost:4000`
+
 5. Create a pull request (that your changes be incorporated into the main site).
 
 ---
