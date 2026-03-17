@@ -115,11 +115,99 @@ img {
 }
 .gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 0.8rem;
-  margin: 1.5rem 0;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  grid-auto-rows: 150px;
+  gap: 10px;
+  grid-auto-flow: dense;
 }
-.gallery img { margin: 0; width: 100%; object-fit: cover; aspect-ratio: 4/3; }
+
+.gallery .item {
+  position: relative;
+  overflow: hidden;
+}
+
+.gallery .item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* size modifiers */
+.xxl {
+  grid-column: span 5;
+  grid-row: span 4;
+}
+.xl {
+  grid-column: span 3;
+  grid-row: span 2;
+}
+.large {
+  grid-column: span 2;
+  grid-row: span 2;
+}
+.medium {
+  grid-column: span 2;
+  grid-row: span 1;
+}
+.small {
+  grid-column: span 1;
+  grid-row: span 1;
+}
+
+
+/* media page layout */
+
+figure {
+  margin: 2rem auto;
+  max-width: 900px;
+}
+
+figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  text-align: center;
+  color: #555;
+}
+
+/* video grid */
+
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.video-grid figure {
+  margin: 0;
+  max-width: none;
+}
+
+/* make lite-youtube fill the card */
+
+/* ── Video ── */
+lite-youtube {
+  margin: 1.5rem auto;
+  width: 100%;
+  max-width: 100%;
+}
+.large {
+  grid-column: span 3;
+  grid-row: span 2;
+}
+.big {
+  grid-column: span 2;
+  grid-row: span 2;
+}
+.medium {
+  grid-column: span 2;
+  grid-row: span 1;
+}
+.small {
+  grid-column: span 1;
+  grid-row: span 1;
+}
+
 
 /* media page layout */
 
@@ -186,8 +274,38 @@ lite-youtube::before {
 .site-footer a { color: #ccc; }
 
 /* ── Responsive ── */
+/* Tablet */
+@media (max-width: 900px) {
+  .xxl {
+    grid-column: span 3;
+    grid-row: span 3;
+  }
+
+  .xl {
+    grid-column: span 2;
+    grid-row: span 2;
+  }
+}
+
+
+
 @media (max-width: 600px) {
   .site-header { flex-direction: column; align-items: flex-start; }
   nav ul { gap: 0.4rem 0.8rem; }
   h1 { font-size: 1.6rem; }
+    .gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .xxl,
+  .xl,
+  .large,
+  .medium {
+    grid-column: span 2;
+  }
+
+  .small {
+    grid-column: span 1;
+  }
+
 }
