@@ -112,7 +112,7 @@ _layout			- Header and footer
 ## DNS info
 
 ## Domain name management (info)
-[thornburyswingband.co.uk is registered (at names.co.uk), (for free) for a year until March 2027. names.co.uk DNS settings forward to Cloudflare.](https://www.whois.com/whois/thornburyswingband.co.uk) Cloudflare [has a CNAME for thornburyswingband.co.uk which is owen-kellie-smith.github.io](https://mxtoolbox.com/SuperTool.aspx?action=cname%3athornburyswingband.co.uk).  Github fowards to etcb-website/docs via this repo > Settings > Pages (Custom Domain) which created [a CNAME in root](CNAME).
+[thornburyswingband.co.uk is registered (at names.co.uk), (for free) for a year until March 2027. names.co.uk DNS settings forward to Cloudflare.](https://www.whois.com/whois/thornburyswingband.co.uk) Cloudflare has a CNAME for thornburyswingband.co.uk which is owen-kellie-smith.github.io.  Github fowards to etcb-website/docs via this repo > Settings > Pages (Custom Domain) which created [a CNAME in root](CNAME).
 
 ```mermaid
 flowchart TB
