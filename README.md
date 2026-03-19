@@ -8,6 +8,9 @@ aka
 
 https://thornburyswingband.co.uk/  [How?](#dns-info)
 
+**Similar repos** https://owen-kellie-smith.github.io/static-websites
+
+
 ---
 
 ## ✏️ Stuff that goes out of date (worth editing first)
